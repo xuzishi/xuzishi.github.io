@@ -2,7 +2,7 @@
 title: Fault diagnosis and reconfigurable control for underwater vehicles
 authors:
 - Shiming He
-- **Zishi Xu**
+- Zishi Xu
 - Yanjun Li
 - Ji Xiang
 date: '2021-01-01'
