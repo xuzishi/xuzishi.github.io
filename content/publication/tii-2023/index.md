@@ -14,7 +14,8 @@ publication_types:
 publication: '*IEEE Transactions on Industrial Informatics*'
 doi: 10.1109/TII.2023.3316256
 tags:
-- Propellers;Servomotors;Trajectory tracking;Pulse width modulation;Vehicle dynamics;Surges;Robustness;Differential-driven
-  unmanned surface vessel (USV);Lyapunov-based control;propeller servo loop;trajectory
-  tracking
+- Differential-driven
+- Unmanned surface vessel
+- Propeller servo loop
+- Trajectory tracking
 ---
