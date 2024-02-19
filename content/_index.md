@@ -42,14 +42,10 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # Publications
+  ## Publications
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -57,6 +53,7 @@ sections:
     design:
       columns: '2'
       view: citation
+  ## 
   - block: skills
     content:
       title: Skills
@@ -65,6 +62,7 @@ sections:
       username: admin
     design:
       columns: '1'
+  ##
   - block: experience
     content:
       title: Experience
@@ -204,35 +202,12 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   ## contact
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: xuzishi@zju.edu.cn
       phone: +86 188 1152 0699
@@ -248,20 +223,11 @@ sections:
         latitude: '30.4275'
         longitude: '120.1697'  
       contact_links:
-        - icon: twitter
+        - icon: weixin
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
+          name: 18811520699
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
