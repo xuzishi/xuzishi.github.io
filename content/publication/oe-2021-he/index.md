@@ -6,7 +6,7 @@ authors:
 - Yanjun Li
 - Ji Xiang
 date: '2021-01-01'
-publishDate: '2024-02-19T09:01:15.747101Z'
+publishDate: '2024-02-19T09:00:15.747101Z'
 publication_types:
 - article-journal
 publication: '*Ocean Engineering*'
