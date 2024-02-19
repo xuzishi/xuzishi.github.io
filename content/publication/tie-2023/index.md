@@ -8,7 +8,7 @@ authors:
 - Yanjun Li
 - Ji Xiang
 date: '2023-01-01'
-publishDate: '2024-02-19T09:01:15.740331Z'
+publishDate: '2024-02-19T09:03:15.740331Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Industrial Electronics*'
