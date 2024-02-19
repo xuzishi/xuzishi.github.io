@@ -36,16 +36,19 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+    
+  ## Biography
   - block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    
   ## Publications
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       filters:
         folders:
           - publication
@@ -53,6 +56,7 @@ sections:
     design:
       columns: '2'
       view: citation
+    
   ## 
   - block: skills
     content:
@@ -62,6 +66,7 @@ sections:
       username: admin
     design:
       columns: '1'
+    
   ##
   - block: experience
     content:
@@ -98,6 +103,8 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+    
+  ## 
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -140,14 +147,16 @@ sections:
           url: ''
     design:
       columns: '2'
+    
+  ## Blogs
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Blogs
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 2
       # Filter on criteria
       filters:
         folders:
@@ -167,6 +176,8 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+    
+  ## 
   - block: portfolio
     id: projects
     content:
@@ -194,6 +205,8 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+    
+  ## Gallery
   - block: markdown
     content:
       title: Gallery
@@ -202,6 +215,7 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+    
   ## contact
   - block: contact
     id: contact
@@ -220,8 +234,8 @@ sections:
         country_code: CN
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '30.4275'
-        longitude: '120.1697'  
+        latitude: '30.26368'
+        longitude: '120.11881'  
       contact_links:
         - icon: weixin
           icon_pack: fab
