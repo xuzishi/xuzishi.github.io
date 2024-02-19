@@ -14,6 +14,7 @@ publication_types:
 publication: '*IEEE Transactions on Industrial Electronics*'
 doi: 10.1109/TIE.2023.3340191
 tags:
-- Surges;Task analysis;Convergence;Force;Rivers;Regulators;Optimization;Path following
-  control;sideslip reduction;underactuated unmanned surface vehicles (USVs)
+- Path following control
+- Sideslip reduction
+- Underactuated USV
 ---
