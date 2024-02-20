@@ -119,17 +119,39 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: /upload/awards/2021.jpg
+        - certificate_url: /uploads/awards/2021.jpg
           date_end: ''
           date_start: '2021-12-01'
           description: ''
-          icon: award
-          icon_pack: fas
+          icon: microchip
           organization: Zhejiang University
           organization_url: 
           title: Honor for Graduate
           url: ''
-
+        - certificate_url: '/uploads/awards/2020zju.jpg'
+          date_end: ''
+          date_start: '2020-09-01'
+          description: ''
+          organization: College of Eletrical Engineering, Zhejiang University
+          organization_url: 
+          title: Scholarship for Postgraduate Freshman 
+          url: ''
+        - certificate_url: '/uploads/awards/2020bj.jpg'
+          date_end: ''
+          date_start: '2020-07-01'
+          description: 
+          organization: Beijing Municipal Education Commission
+          organization_url: 
+          title: Graduation with Honors
+          url: 
+        - certificate_url: '/uploads/awards/2018.jpg'
+          date_end: 
+          date_start: '2018-11-20'
+          description: ''
+          organization: Ministry of Education of P. R. China
+          organization_url: 
+          title: National Scholarship
+          url: ''
     design:
       columns: '2'
     
