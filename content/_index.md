@@ -119,11 +119,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: '/assets/media/icon.png'
+        - certificate_url: '/media/icon.png'
           date_end: ''
           date_start: '2021-12-01'
           description: ''
           icon: award
+          icon_pack: fas
           organization: Zhejiang University
           organization_url: 
           title: Honor for Graduate
@@ -132,7 +133,6 @@ sections:
           date_end: ''
           date_start: '2020-09-01'
           description: ''
-          icon: award
           organization: College of Eletrical Engineering, Zhejiang University
           organization_url: 
           title: Scholarship for Postgraduate Freshman 
