@@ -83,9 +83,11 @@ sections:
       items:
         - name: Python
           icon: python
+          icon_pack: fab
           description: 
         - name: Matlab
           icon: function
+          icon_pack: far
           description: 
         - name: C
           icon: c
@@ -95,9 +97,11 @@ sections:
           description: 
         - name: ROS
           icon: grid-round
+          icon_pack: fas
           description: 
         - name: Shell
           icon: ubuntu
+          icon_pack: fab
           description: 
     
   ## 
