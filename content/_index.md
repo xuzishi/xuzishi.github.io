@@ -119,7 +119,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: '/media/icon.png'
+        - certificate_url: './media/icon.png'
           date_end: ''
           date_start: '2021-12-01'
           description: ''
@@ -129,7 +129,7 @@ sections:
           organization_url: 
           title: Honor for Graduate
           url: ''
-        - certificate_url: '/assets/media/icon.png'
+        - certificate_url: './media/albums/demo/chris-montgomery-smgTvepind4-unsplash.jpg'
           date_end: ''
           date_start: '2020-09-01'
           description: ''
@@ -192,6 +192,7 @@ sections:
     content:
       title: Gallery
       subtitle: ''
+      # ./assets/media/albums/
       text: |-
         {{< gallery album="demo" >}}
     design:
