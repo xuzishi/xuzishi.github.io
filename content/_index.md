@@ -96,7 +96,7 @@ sections:
           icon: microchip
           description: 
         - name: ROS
-          icon: icon::ros
+          icon: ros
           icon_pack: custom
           description: 
         - name: Shell
