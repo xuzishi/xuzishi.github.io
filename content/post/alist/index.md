@@ -1,9 +1,9 @@
 ---
-title: Notes for Alist
+title: Alist
 subtitle: 
 
 # Summary for listings and search engines
-summary: Alist - private onedrive
+summary: Alist - private netdisk
 
 # Link this post with a project
 projects: []
