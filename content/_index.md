@@ -79,6 +79,7 @@ sections:
   - block: features
     id: skills
     content:
+      # icon_pack: custom (./assets/media/icons); fab fas far (https://fontawesome.com/)
       title: Skills
       items:
         - name: Python
@@ -104,7 +105,7 @@ sections:
           icon_pack: fab
           description: 
     
-  ## 
+  ## Awards
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -118,29 +119,38 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: '/assets/media/icon.png'
           date_end: ''
           date_start: '2021-12-01'
           description: ''
-          icon: coursera
+          icon: award
           organization: Zhejiang University
-          organization_url: https://www.coursera.org
+          organization_url: 
           title: Honor for Graduate
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: '/assets/media/icon.png'
+          date_end: ''
+          date_start: '2020-09-01'
+          description: ''
+          icon: award
+          organization: College of Eletrical Engineering, Zhejiang University
+          organization_url: 
+          title: Scholarship for Postgraduate Freshman 
+          url: ''
+        - certificate_url: './_index.md'
           date_end: ''
           date_start: '2020-07-01'
           description: 
-          icon: edx
+          icon: award
           organization: Beijing Municipal Education Commission
-          organization_url: https://www.edx.org
+          organization_url: 
           title: Graduation with Honors
           url: 
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: '/_index.md'
           date_end: 
           date_start: '2018-11-20'
           description: ''
-          icon: datacamp
+          icon: award
           organization: Ministry of Education of P. R. China
           organization_url: 
           title: National Scholarship
