@@ -87,7 +87,6 @@ sections:
           description: 
         - name: Matlab
           icon: icon::matlab
-          icon_pack: custom
           description: 
         - name: C
           icon: c
