@@ -56,7 +56,7 @@ skills:
         icon_pack: fas
       - name: STM32
         description: ''
-        icon: database
+        icon: microchip
         icon_pack: fas
 
 # Social/Academic Networking
