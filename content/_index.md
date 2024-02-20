@@ -89,7 +89,7 @@ sections:
           icon: matlab
           icon_pack: custom
           description: 
-        - name: C
+        - name: C/C++
           icon: c
           description: 
         - name: STM32
@@ -120,30 +120,30 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021-12-01'
           description: ''
           icon: coursera
-          organization: Coursera
+          organization: Zhejiang University
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Honor for Graduate
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
           date_start: '2020-07-01'
+          description: 
+          icon: edx
+          organization: Beijing Municipal Education Commission
+          organization_url: https://www.edx.org
+          title: Graduation with Honors
+          url: 
+        - certificate_url: https://www.datacamp.com
+          date_end: 
+          date_start: '2018-11-20'
           description: ''
           icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Ministry of Education of P. R. China
+          organization_url: 
+          title: National Scholarship
           url: ''
     design:
       columns: '2'
