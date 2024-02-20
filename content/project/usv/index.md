@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: USV prototype.
   focal_point: Smart
 
 url_code: ''
@@ -24,7 +24,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 ---
 
-The motion control unmanned surface vehicle (USV)
 
 ## Trajectory Tracking Control for Differential-Driven USVs Considering Propeller Servo
 
