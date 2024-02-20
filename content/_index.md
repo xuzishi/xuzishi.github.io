@@ -45,7 +45,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     
-## 
+  ## Projects
   - block: portfolio
     id: projects
     content:
@@ -75,7 +75,7 @@ sections:
       columns: '2'
       view: citation
     
-  ## 
+  ## Skills
   - block: features
     id: skills
     content:
@@ -86,8 +86,8 @@ sections:
           icon_pack: fab
           description: 
         - name: Matlab
-          icon: function
-          icon_pack: far
+          icon: icon::matlab
+          icon_pack: custom
           description: 
         - name: C
           icon: c
@@ -96,8 +96,8 @@ sections:
           icon: microchip
           description: 
         - name: ROS
-          icon: grid-round
-          icon_pack: fas
+          icon: icon::ros
+          icon_pack: custom
           description: 
         - name: Shell
           icon: ubuntu
