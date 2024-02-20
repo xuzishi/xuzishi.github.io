@@ -76,14 +76,29 @@ sections:
       view: citation
     
   ## 
-  - block: skills
+  - block: features
+    id: skills
     content:
       title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+      items:
+        - name: Python
+          icon: python
+          description: 
+        - name: Matlab
+          icon: function
+          description: 
+        - name: C
+          icon: c
+          description: 
+        - name: STM32
+          icon: microchip
+          description: 
+        - name: ROS
+          icon: grid-round
+          description: 
+        - name: Shell
+          icon: ubuntu
+          description: 
     
   ## 
   - block: accomplishments
