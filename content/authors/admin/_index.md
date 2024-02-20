@@ -41,24 +41,6 @@ education:
       institution: Beijing Institute of Technology
       year: 2016-2020
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        icon: python
-        icon_pack: fab
-      - name: Matlab
-        description: ''
-        icon: chart-line
-        icon_pack: fas
-      - name: STM32
-        description: ''
-        icon: microchip
-        icon_pack: fas
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
