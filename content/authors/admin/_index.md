@@ -66,5 +66,5 @@ social:
 highlight_name: true
 ---
 
-Zishi Xu is a PhD student of control theory and engineering at College of Electrical Engineering, Zhejiang University, China. He is working on the motion control of underactuated unmanned surface vehicles under the supervision of [Prof. Ji Xiang](https://scholar.google.com/citations?user=rgwDYosAAAAJ) ([Homepage at Zhejiang University](https://person.zju.edu.cn/jxiang)).
+Zishi Xu is a PhD student of control theory and engineering at College of Electrical Engineering, Zhejiang University, China. He is working on the motion control of underactuated unmanned surface vehicles under the supervision of [Prof. Ji Xiang](https://scholar.google.com/citations?user=rgwDYosAAAAJ) ([Homepage](https://person.zju.edu.cn/jxiang)).
 {style="text-align: justify;"}
