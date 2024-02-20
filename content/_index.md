@@ -107,6 +107,7 @@ sections:
     
   ## Awards
   - block: accomplishments
+    id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards'
@@ -191,7 +192,7 @@ sections:
       subtitle: ''
       # ./assets/media/albums/
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="mypic" >}}
     design:
       columns: '1'
     
