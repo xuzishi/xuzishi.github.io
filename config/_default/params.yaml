@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} 浙ICP备0000号 This work is licensed under {license}'
+    notice: '© {year} xuzishi.online 浙ICP备0000号 <a href="https://beian.miit.gov.cn/" target="_blank">您的备案号</a> \n This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
