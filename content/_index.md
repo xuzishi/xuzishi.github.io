@@ -219,7 +219,7 @@ sections:
       contact_links:
         - icon: weixin
           icon_pack: fab
-          name: WeChat: 18811520699 (Click for QR Code)
+          name: 'WeChat: 18811520699 (Click for QR Code)'
           url: '/uploads/weixin.jpg'
       # Automatically link email and phone or display as text?
       autolink: true
