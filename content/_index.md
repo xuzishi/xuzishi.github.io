@@ -203,8 +203,8 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: xuzishi@zju.edu.cn
-      phone: +86 188 1152 0699
+      email: '<a href="mailto:xuzishi@zju.edu.cn" target="_blank">xuzishi@zju.edu.cn</a>'
+      phone: '<a href="tel:008618811520699" target="_blank">+86 188 1152 0699</a>'
       address:
         street: 38 Zheda Road, Xihu District
         city: Hangzhou
@@ -219,10 +219,9 @@ sections:
       contact_links:
         - icon: weixin
           icon_pack: fab
-          name: 'WeChat: 18811520699 (Click for QR Code)'
-          url: '/uploads/weixin.jpg'
+          name: 'WeChat: 18811520699 (<a data-fancybox="gallery-demo" href="/uploads/weixin.jpg">Click for QR Code</a>)'
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
     design:
       columns: '2'
 ---
