@@ -219,7 +219,7 @@ sections:
       contact_links:
         - icon: weixin
           icon_pack: fab
-          name: '"WeChat: 18811520699 (" <a data-fancybox="gallery-demo" href="/uploads/weixin.jpg">Click for QR Code</a>)'
+          name: 'WeChat: <a data-fancybox="gallery-demo" href="/uploads/weixin.jpg">18811520699 (Click for QR Code)</a>'
           link: '/uploads/weixin.jpg'
       # Automatically link email and phone or display as text?
       autolink: true
